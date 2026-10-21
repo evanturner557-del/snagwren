@@ -1,5 +1,5 @@
 window.SITE_CONFIG = {
-  "brand": "Snagwren",
+  "brand": "Plasterpeek",
   "slug": "snagwren",
   "checkoutMode": "none",
   "checkoutUrl": null,
